@@ -6,47 +6,47 @@ WisataRiau is one of many tourism application based on native java programming w
 
 ## [x] Login Page
 
-<img src="https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_142254_001.jpg" width="400" height="500">
+<img src="https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_142254_001.jpg" width="400" height="600">
 
 
 
 ## [x] Home Page
 
-![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114528_670.jpg)
+<img src="https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114528_670.jpg" width="400" height="600">
 
 ## [x] Menu Page
 
-![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114502_176.png)
+<img src="https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114502_176.png" width="400" height="600">
 
 ## [x] Web Portal
 
-![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/Screenshot_2020-11-03-14-36-34.png)
+<img src="https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/Screenshot_2020-11-03-14-36-34.png" width="400" height="600">
 
 ## [x] Maps
 
-![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114548_028.jpg)
+<img src="https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114548_028.jpg" width="400" height="600">
 
 ## [x] Gallery
 
-![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114634_061.jpg)
+<img src="https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114634_061.jpg" width="400" height="600">
 
-![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114609_389.jpg)
+<img src="https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114609_389.jpg" width="400" height="600">
 
 ## [x] Video
 
-![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114654_571.jpg)
+<img src="https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114654_571.jpg" width="400" height="600">
 
 ## [x] News Update
 
-![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/News%20Update.png)
+<img src="https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/News%20Update.png" width="400" height="600">
 
-![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/News%20Update2.png)
+<img src="https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/News%20Update2.png" width="400" height="600">
 
-![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/News%20Update3.png)
+<img src="https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/News%20Update3.png" width="400" height="600">
 
 ## [x] About Developer
 
-![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114814_361.jpg)
+<img src="https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114814_361.jpg" width="400" height="600">
 
 # Created By
 This Application Created By Bedson Gultom in 2017
