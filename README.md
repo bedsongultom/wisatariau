@@ -6,7 +6,7 @@ WisataRiau is one of many tourism application based on native java programming w
 
 ## [x] Login Page
 
-<img src="https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_142254_001.jpg" width="400" height="790">
+<img src="https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_142254_001.jpg" width="400" height="500">
 
 
 
