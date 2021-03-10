@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">Wisata Riau</string>
+    <string name="telegram_link"><a href="https://t.me/BedsonGultom>">@BedsonGultom</a></string>
+    <string name="youtube_channel_link"><a href="https://www.youtube.com/channel/UCMyFy_5u0VdzJztv7LI6iGg">Bedson Gultom</a></string>
+    <string name="email_link"><a href="mailto:gultom.bedson@protonmail.com">gultom.bedson@protonmail.com</a></string>
+    <string name="phone_link">+62 81378890333</string>
+
+    <string name="nav_header_title">Wisata Riau</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_about">About Developer</string>
+    <string name="label_yes">Yes</string>
+    <string name="label_no">No</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_web">Web</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="label_search">Search</string>
+    <string name="label_search_here">Search Here !!</string>
+    <string name="menu_video">Video</string>
+    <string name="menu_browser">Browser</string>
+    <string name="menu_newsupdate">News Update</string>
+    <string name="menu_newsdetails">News Details</string>
+    <string name="line">Others Menu</string>
+    <string name="menu_exit">Exit</string>
+    <string name="developer">ANDROID DEVELOPER</string>
+    <string name="label_name">Name :</string>
+    <string name="label_name_fill">Bedson Gultom</string>
+    <string name="label_hand_phone_no">Hp.</string>
+    <string name="label_hand_phone_no_fill">+62 81378890333</string>
+    <string name="label_address">Address :</string>
+    <string name="label_address_fill">Berbah Jogjakarta</string>
+    <string name="label_email_address">E-mail :</string>
+    <string name="label_email_address_fill">gultom.bedson@protonmail.com</string>
+    <string name="label_map_terrain">terrain</string>
+    <string name="label_map_hybrid">hybrid</string>
+    <string name="label_map_satelite">satellite</string>
+    <string name="label_map_normal">normal</string>
+    <string name="label_version">Ver.1.0</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
