@@ -29,7 +29,7 @@ WisataRiau is one of many tourism application based on native java programming w
 
 ![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114634_061.jpg)
 
-![solarized dualmode]https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114609_389.jpg
+![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114609_389.jpg)
 
 ## [x] Video
 
