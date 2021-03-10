@@ -6,29 +6,24 @@ WisataRiau is one of many tourism application based on native java programming w
 
 [x] Login Page
 
-[![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_142254_001.jpg)
+!(https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_142254_001.jpg)
 
-***See the [changelog] for what's new in the most recent release.***
-
-![solarized palette](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
-
-![solarized vim](https://github.com/altercation/solarized/raw/master/img/solarized-vim.png)
 
 [x] Home Page
 
-(https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114528_670.jpg)
+!(https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114528_670.jpg)
 
 [x] Menu Page
 
-(https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114502_176.png)
+![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114502_176.png)
 
 [x] Web Portal
 
-https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/Screenshot_2020-11-03-14-36-34.png
+!(https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/Screenshot_2020-11-03-14-36-34.png)
 
 [x] Maps
 
-https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114548_028.jpg
+!(https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114548_028.jpg)
 
 [x] Gallery
 
