@@ -1,4 +1,8 @@
+# WisataRiau
+
 WisataRiau is one of many tourism application based on native java programming which could to install on android smart-phone. whereby this application contains about information of riau tourism such as location of agung mosque, kampar river and many more we can get on it application. 
+
+#Screenshoot
 
 [x] Login Page
 
@@ -38,4 +42,5 @@ https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable
 
 https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114814_361.jpg
 
+# Created By
 This Application Created By Bedson Gultom in 2017
