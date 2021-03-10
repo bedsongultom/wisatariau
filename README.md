@@ -2,7 +2,7 @@
 
 WisataRiau is one of many tourism application based on native java programming which could to install on android smart-phone. whereby this application contains about information of riau tourism such as location of agung mosque, kampar river and many more we can get on it application. 
 
-#Screenshoot
+# Screenshoot
 
 [x] Login Page
 
