@@ -4,28 +4,28 @@ WisataRiau is one of many tourism application based on native java programming w
 
 # Screenshoot
 
-[x] Login Page
+## [x] Login Page
 
 ![solarized palette](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_142254_001.jpg)
 
 
-[x] Home Page
+## [x] Home Page
 
 ![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114528_670.jpg)
 
-[x] Menu Page
+## [x] Menu Page
 
 ![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114502_176.png)
 
-[x] Web Portal
+## [x] Web Portal
 
 ![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/Screenshot_2020-11-03-14-36-34.png)
 
-[x] Maps
+## [x] Maps
 
 ![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114548_028.jpg)
 
-[x] Gallery
+## [x] Gallery
 
 ![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114634_061.jpg)
 
@@ -35,7 +35,7 @@ WisataRiau is one of many tourism application based on native java programming w
 
 ![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114654_571.jpg)
 
-[x] News Update
+## [x] News Update
 
 ![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/News%20Update.png)
 
@@ -43,7 +43,7 @@ WisataRiau is one of many tourism application based on native java programming w
 
 ![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/News%20Update3.png)
 
-[x] About Developer
+## [x] About Developer
 
 ![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114814_361.jpg)
 
