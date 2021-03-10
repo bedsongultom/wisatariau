@@ -8,7 +8,6 @@
 
 [x] Menu Page
 
-(https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_114502_176.png)
 
 [x] Web Portal
 
