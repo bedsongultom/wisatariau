@@ -6,7 +6,13 @@ WisataRiau is one of many tourism application based on native java programming w
 
 [x] Login Page
 
-[![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_142254_001.jpg)(#features)
+[![solarized dualmode](https://github.com/bedsongultom/wisatariau/blob/master/app/src/main/res/drawable/IMG_20201103_142254_001.jpg)
+
+***See the [changelog] for what's new in the most recent release.***
+
+![solarized palette](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
+
+![solarized vim](https://github.com/altercation/solarized/raw/master/img/solarized-vim.png)
 
 [x] Home Page
 
